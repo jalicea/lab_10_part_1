@@ -2,9 +2,17 @@ p{
 	color:#FF0000;
 	text-decoration:strike-through;
 }
+#intro{
+	color:#0000FF;
+	border: 1px #000000 solid;
+		} 
 h1{
 	color:#70E500;
 	text-transform:uppercase;
+	margin:20px;
+	padding:40px;
+	border: 10px #000000 dashed;
+	
 }
 h1 ,h2, h3{
 	background-color:#888888;
@@ -14,5 +22,11 @@ body{
 	font-size:2em;
 	}
 h2{
-		text-decoration:underline;
+	text-decoration:underline;
 }
+.spotlight{
+	background-color:#FEFE22;
+	}
+h2, p {
+	color:#11FF11;
+	}
